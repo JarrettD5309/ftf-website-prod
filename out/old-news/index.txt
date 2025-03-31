@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[4428,["177","static/chunks/app/layout-6b0bafefeb47399a.js"],"StoreProvider"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[8173,["173","static/chunks/173-fa931d98c5b0d33e.js","345","static/chunks/app/not-found-45e62406589973a8.js"],""]
+6:I[7033,[],"ClientPageRoot"]
+7:I[8425,["173","static/chunks/173-fa931d98c5b0d33e.js","80","static/chunks/app/old-news/page-8f80d1ec0eca19ac.js"],"default"]
+a:I[6213,[],"OutletBoundary"]
+c:I[6213,[],"MetadataBoundary"]
+e:I[6213,[],"ViewportBoundary"]
+10:I[4835,[],""]
+:HL["/_next/static/media/42635028885e1a9a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44c9a991e8efa4cf-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4e8bcdbdb2c2ae02-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f68a60a24921227-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7323a86903faddad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/885b02ba6ecbd782-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d812762ab9232f90-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e1bf351f6f969bfd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/165503015bb00380.css","style"]
+:HL["/_next/static/css/0a008fbb56a9d0e9.css","style"]
+0:{"P":null,"b":"HOSy60GgqUGHevPumym5R","p":"","c":["","old-news",""],"i":false,"f":[[["",{"children":["old-news",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/165503015bb00380.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_0b4b9e","children":[["$","head",null,{"children":["$","script",null,{"src":"https://js.stripe.com/v3/"}]}],["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":[["$","h2",null,{"className":"margin-top-1rem","children":"Not Found"}],["$","p",null,{"className":"text-center margin-top-1rem","children":["$","$L5",null,{"href":"/","children":"FTF HOME PAGE"}]}]]}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["old-news",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","old-news","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"Component":"$7","searchParams":{},"params":{},"promises":["$@8","$@9"]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0a008fbb56a9d0e9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":"$Lb"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","jFugr0QNhs7AIMEl4RJIf",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+8:{}
+9:{}
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Feel The Four Records"}],["$","meta","2",{"name":"description","content":"Dance music record label from Philadelphia"}],["$","link","3",{"rel":"icon","href":"/icon.png?5015d066036289bc","type":"image/png","sizes":"512x512"}]]
+b:null
