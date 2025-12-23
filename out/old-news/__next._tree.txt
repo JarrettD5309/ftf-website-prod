@@ -1,0 +1,11 @@
+:HL["/_next/static/chunks/4efe59c2fffdd4d3.css","style"]
+:HL["/_next/static/media/Futura_45Light-s.p.22d57c3a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_46LightItalic-s.p.6c761b8c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_55Regular-s.p.0ed49e0b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_56Italic-s.p.c00e2079.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_65Medium-s.p.aff5f371.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_66MediumItalic-s.p.8f536da6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_75Bold-s.p.08c619f4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Futura_76BoldItalic-s.p.e540679e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/c1cb5556ba6a69d3.css","style"]
+0:{"buildId":"cl8QKilyci6pYhpEHqsp7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"old-news","paramType":null,"paramKey":"old-news","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
